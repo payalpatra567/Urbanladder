@@ -1,0 +1,34 @@
+2021-09-26 00:09:961  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:765  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:29  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:991  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:390  INFO  LogFilesUtil:103 - enter the send keys and it show the in search box
+2021-09-26 00:09:344  INFO  LogFilesUtil:111 - here show the available link present in the page
+2021-09-26 00:09:811  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:365  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:865  INFO  LogFilesUtil:136 - enter the send keys value
+2021-09-26 00:09:760  INFO  LogFilesUtil:139 - next it shows the which is customer enter
+2021-09-26 00:09:126  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:763  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:269  INFO  LogFilesUtil:146 - shows the giftcard page
+2021-09-26 00:09:694  INFO  LogFilesUtil:180 - it is  automatically click the wedding button  
+2021-09-26 00:09:698  INFO  LogFilesUtil:153 - click the price
+2021-09-26 00:09:324  INFO  LogFilesUtil:164 - enter the recipient name and email
+2021-09-26 00:09:110  INFO  LogFilesUtil:169 - enter the your name,email,number and message
+2021-09-26 00:09:320  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:06  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:694  INFO  LogFilesUtil:193 - click the store it show all available furniture
+2021-09-26 00:09:191  INFO  LogFilesUtil:202 - it is check the assert is correct or not
+2021-09-26 00:09:313  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:227  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:882  INFO  LogFilesUtil:210 - click the trackorder buttom
+2021-09-26 00:09:883  INFO  LogFilesUtil:218 - click the track order it is showing enter the orer number and phone number
+2021-09-26 00:09:154  INFO  LogFilesUtil:227 - click the submit buttom
+2021-09-26 00:09:289  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:896  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:683  INFO  LogFilesUtil:234 - click the customer view
+2021-09-26 00:09:226  INFO  LogFilesUtil:242 - print the customer review
+2021-09-26 00:09:227  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:85  INFO  LogFilesUtil:61 - URL is opened 
+2021-09-26 00:09:776  INFO  LogFilesUtil:52 - driver is setup 
+2021-09-26 00:09:676  INFO  LogFilesUtil:61 - URL is opened 
